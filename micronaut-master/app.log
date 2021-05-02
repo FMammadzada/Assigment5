@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-05-02T07:09:16.047404900Z</date>
+  <millis>1619939356047</millis>
+  <nanos>404900</nanos>
+  <sequence>0</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>28</thread>
+  <message>Stock: DOW: 62.5 Price: 62.5</message>
+</record>
+<record>
+  <date>2021-05-02T07:09:25.972871300Z</date>
+  <millis>1619939365972</millis>
+  <nanos>871300</nanos>
+  <sequence>1</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>28</thread>
+  <message>Stock: DOW: 62.5 Price: 62.5</message>
+</record>
+<record>
+  <date>2021-05-02T07:09:26.200047Z</date>
+  <millis>1619939366200</millis>
+  <nanos>47000</nanos>
+  <sequence>2</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>28</thread>
+  <message>Stock: NASDAQ: null Price: null</message>
+</record>
+<record>
+  <date>2021-05-02T07:10:55.407719200Z</date>
+  <millis>1619939455407</millis>
+  <nanos>719200</nanos>
+  <sequence>3</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>28</thread>
+  <message>Stock: DOW: 62.5 Price: 62.5</message>
+</record>
+<record>
+  <date>2021-05-02T07:10:55.661982800Z</date>
+  <millis>1619939455661</millis>
+  <nanos>982800</nanos>
+  <sequence>4</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>28</thread>
+  <message>Stock: GNW: 4.32 Price: 4.32</message>
+</record>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-05-02T11:55:48.481494Z</date>
+  <millis>1619956548481</millis>
+  <nanos>494000</nanos>
+  <sequence>0</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>27</thread>
+  <message>Stock: MSFT: 252.18 Price: 252.18</message>
+</record>
+<record>
+  <date>2021-05-02T11:55:59.704630Z</date>
+  <millis>1619956559704</millis>
+  <nanos>630000</nanos>
+  <sequence>1</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>27</thread>
+  <message>Stock: MSFT: 252.18 Price: 252.18</message>
+</record>
+<record>
+  <date>2021-05-02T11:55:59.921906Z</date>
+  <millis>1619956559921</millis>
+  <nanos>906000</nanos>
+  <sequence>2</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>27</thread>
+  <message>Stock: AAPL: 131.46 Price: 131.46</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-05-02T12:52:31.512935Z</date>
+  <millis>1619959951512</millis>
+  <nanos>935000</nanos>
+  <sequence>0</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>27</thread>
+  <message>Stock: MSFT: 252.18 Price: 252.18</message>
+</record>
+<record>
+  <date>2021-05-02T12:52:31.707638Z</date>
+  <millis>1619959951707</millis>
+  <nanos>638000</nanos>
+  <sequence>1</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>27</thread>
+  <message>Stock: AAPL: 131.46 Price: 131.46</message>
+</record>
+<record>
+  <date>2021-05-02T12:52:44.535323Z</date>
+  <millis>1619959964535</millis>
+  <nanos>323000</nanos>
+  <sequence>2</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>27</thread>
+  <message>Stock: MSFT: 252.18 Price: 252.18</message>
+</record>
+<record>
+  <date>2021-05-02T12:52:44.745423Z</date>
+  <millis>1619959964745</millis>
+  <nanos>423000</nanos>
+  <sequence>3</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>27</thread>
+  <message>Stock: AAPL: 131.46 Price: 131.46</message>
+</record>
+<record>
+  <date>2021-05-02T12:52:44.932610Z</date>
+  <millis>1619959964932</millis>
+  <nanos>610000</nanos>
+  <sequence>4</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>27</thread>
+  <message>Stock: GOGL: 8.7 Price: 8.7</message>
+</record>
+<record>
+  <date>2021-05-02T12:52:59.027311Z</date>
+  <millis>1619959979027</millis>
+  <nanos>311000</nanos>
+  <sequence>5</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>27</thread>
+  <message>Stock: MSFT: 252.18 Price: 252.18</message>
+</record>
+<record>
+  <date>2021-05-02T12:52:59.238936Z</date>
+  <millis>1619959979238</millis>
+  <nanos>936000</nanos>
+  <sequence>6</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>27</thread>
+  <message>Stock: AAPL: 131.46 Price: 131.46</message>
+</record>
+<record>
+  <date>2021-05-02T12:52:59.424646Z</date>
+  <millis>1619959979424</millis>
+  <nanos>646000</nanos>
+  <sequence>7</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>27</thread>
+  <message>Stock: GOOGL: 2353.5 Price: 2353.5</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-05-02T15:25:47.636742Z</date>
+  <millis>1619969147636</millis>
+  <nanos>742000</nanos>
+  <sequence>0</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>27</thread>
+  <message>Stock: IBM: 141.88 Price: 141.88</message>
+</record>
+<record>
+  <date>2021-05-02T15:25:54.314907Z</date>
+  <millis>1619969154314</millis>
+  <nanos>907000</nanos>
+  <sequence>1</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>27</thread>
+  <message>Stock: IBM: 141.88 Price: 141.88</message>
+</record>
+<record>
+  <date>2021-05-02T15:26:02.720967Z</date>
+  <millis>1619969162720</millis>
+  <nanos>967000</nanos>
+  <sequence>2</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>27</thread>
+  <message>Stock: IBM: 141.88 Price: 141.88</message>
+</record>
+<record>
+  <date>2021-05-02T15:26:02.931904Z</date>
+  <millis>1619969162931</millis>
+  <nanos>904000</nanos>
+  <sequence>3</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>27</thread>
+  <message>Stock: AAPL: 131.46 Price: 131.46</message>
+</record>
+<record>
+  <date>2021-05-02T15:26:19.481048Z</date>
+  <millis>1619969179481</millis>
+  <nanos>48000</nanos>
+  <sequence>4</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>27</thread>
+  <message>Stock: IBM: 141.88 Price: 141.88</message>
+</record>
+<record>
+  <date>2021-05-02T15:26:19.665959Z</date>
+  <millis>1619969179665</millis>
+  <nanos>959000</nanos>
+  <sequence>5</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>27</thread>
+  <message>Stock: AAPL: 131.46 Price: 131.46</message>
+</record>
+</log>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2021-05-02T15:29:44.834825Z</date>
+  <millis>1619969384834</millis>
+  <nanos>825000</nanos>
+  <sequence>0</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>27</thread>
+  <message>Stock: IBM: 141.88 Price: 141.88</message>
+</record>
+<record>
+  <date>2021-05-02T15:29:45.053455Z</date>
+  <millis>1619969385053</millis>
+  <nanos>455000</nanos>
+  <sequence>1</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>27</thread>
+  <message>Stock: AAPL: 131.46 Price: 131.46</message>
+</record>
+<record>
+  <date>2021-05-02T15:29:50.709857Z</date>
+  <millis>1619969390709</millis>
+  <nanos>857000</nanos>
+  <sequence>2</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>27</thread>
+  <message>Stock: IBM: 141.88 Price: 141.88</message>
+</record>
+<record>
+  <date>2021-05-02T15:29:50.924934Z</date>
+  <millis>1619969390924</millis>
+  <nanos>934000</nanos>
+  <sequence>3</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>27</thread>
+  <message>Stock: AAPL: 131.46 Price: 131.46</message>
+</record>
+<record>
+  <date>2021-05-02T15:40:06.689892Z</date>
+  <millis>1619970006689</millis>
+  <nanos>892000</nanos>
+  <sequence>4</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>32</thread>
+  <message>Stock: IBM: 141.88 Price: 141.88</message>
+</record>
+<record>
+  <date>2021-05-02T15:40:06.981519Z</date>
+  <millis>1619970006981</millis>
+  <nanos>519000</nanos>
+  <sequence>5</sequence>
+  <logger>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</logger>
+  <level>INFO</level>
+  <class>edu.ada.micronaut.service.impl.YahooFinanceServiceImpl</class>
+  <method>getFinancialData</method>
+  <thread>32</thread>
+  <message>Stock: AAPL: 131.46 Price: 131.46</message>
+</record>

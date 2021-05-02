@@ -1,0 +1,106 @@
+{
+	"info": {
+		"_postman_id": "9c1982dd-30fa-46b7-94a3-409a25c0e3b6",
+		"name": "FARID",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "register",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "username",
+						"value": "farid",
+						"type": "text"
+					},
+					{
+						"key": "password",
+						"value": "123",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:8080/auth/register",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"auth",
+						"register"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "login",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "username",
+						"value": "farid",
+						"type": "text"
+					},
+					{
+						"key": "password",
+						"value": "123",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:8080/auth/login",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"auth",
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Stock Price (Yahoo)",
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "token",
+						"value": "T_AdjdZFYPQpytMKT",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "http://localhost:8080/financial?provider=yahoo&stock_index=IBM,AAPL",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"financial"
+					],
+					"query": [
+						{
+							"key": "provider",
+							"value": "yahoo"
+						},
+						{
+							"key": "stock_index",
+							"value": "IBM,AAPL"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
